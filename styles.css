@@ -21,9 +21,9 @@ p{
 }
 
 .frame {
-    border: 2px solid #4ef163; /* لون الحدود */
+    border: 1.5px solid #4ef163; /* لون الحدود */
     background-color: #4ef163; /* لون الخلفية */
-    padding: 15px; /* المسافة بين النص وحدود الإطار */
+    padding: 20px; /* المسافة بين النص وحدود الإطار */
     border-radius: 10px; /* تقويس الحواف */
     box-shadow: 0 0 10px #fffbe91a; /* ظل الإطار */
     text-align: center; /* محاذاة النص في المركز */
@@ -49,7 +49,7 @@ h2 {
     font-size: 17px;
     padding: 12px 20px;
     color: white;
-    background: #acd4bc ;
+    background: #4ef163 ;
     border: none;
     box-shadow: 0 0.7em 1.5em -0.5em rgba(59, 48, 78, 0.527);
     letter-spacing: 0.05em;
