@@ -21,7 +21,7 @@ p{
 }
 
 .frame {
-    border: 1.5px solid #4ef163; /* لون الحدود */
+    border: 1px solid #4ef163; /* لون الحدود */
     background-color: #4ef163; /* لون الخلفية */
     padding: 20px; /* المسافة بين النص وحدود الإطار */
     border-radius: 10px; /* تقويس الحواف */
