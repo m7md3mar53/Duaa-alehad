@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lateef:wght@200;300;400;500;600;700;800&display=swap');
 
 *{
-background-color: #FFFBE9;
+background-color: #ffffff;
 }
 body {
     text-align: center;
@@ -23,7 +23,7 @@ p{
 .frame {
     border: 1px solid #4ef163; /* لون الحدود */
     background-color: #4ef163; /* لون الخلفية */
-    padding: 12px; /* المسافة بين النص وحدود الإطار */
+    padding: 10px; /* المسافة بين النص وحدود الإطار */
     border-radius: 10px; /* تقويس الحواف */
     box-shadow: 0 0 10px #fffbe91a; /* ظل الإطار */
     text-align: center; /* محاذاة النص في المركز */
